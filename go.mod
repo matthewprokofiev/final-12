@@ -1,4 +1,4 @@
-module main
+module matthewprokofiev/final-12
 
 go 1.26.1
 
